@@ -2,4 +2,4 @@
 
 1. Go to Site Settings / Permissions for this site
 2. Find Insecure Content
-3.Change it to "Allow".
+3. Change it to "Allow".
